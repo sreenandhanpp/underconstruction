@@ -13,7 +13,7 @@ A modern, responsive "Under Construction" landing page with animated elements an
 - 📧 Contact information section
 
 ## Preview
-
+![alt text](<Coming Soon - Under Construction - Google Chrome 11-11-2024 07_08_36 PM.png>)
 
 
 ## Getting Started
